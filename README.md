@@ -1,13 +1,13 @@
 # How to Install a Vanilla World on Your PocketMine Server
 
-In this tutorial, we will guide you through the process of installing a Vanilla World on your Minecraft server. By following these steps, you can easily load and set up a pre-generated world without the need for lengthy in-game exploration and terrain generation.
+In this tutorial, we will guide you through the process of installing a Vanilla World on your PocketMine server. By following these steps, you can easily load and set up a pre-generated world without the need for lengthy in-game exploration and terrain generation.
 
 ## Prerequisites
 
 Before you begin, ensure you have the following:
 
-- SpigotMC installed on your server: [SpigotMC](https://hub.spigotmc.org/jenkins/job/BuildTools/) is a modified version of the Minecraft server that allows for plugins and provides enhanced performance.
-- Chunky installed on your computer: [Chunky](https://www.spigotmc.org/resources/chunky.81534/) is a world-rendering tool that helps you pre-generate chunks and create the Vanilla World you want to use on your server.
+- [SpigotMC](https://hub.spigotmc.org/jenkins/job/BuildTools/) is a modified version of the Minecraft server that allows for plugins and provides enhanced performance.
+- [Chunky](https://www.spigotmc.org/resources/chunky.81534/) is a world-rendering tool that helps you pre-generate chunks and create the Vanilla World you want to use on your server.
 
 ## Step 1: Download SpigotMC and Install Chunky
 
