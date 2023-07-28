@@ -9,6 +9,8 @@ Before you begin, ensure you have the following:
 - [SpigotMC](https://hub.spigotmc.org/jenkins/job/BuildTools/) is a modified version of the Minecraft server that allows for plugins and provides enhanced performance.
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/) is a world-rendering tool that helps you pre-generate chunks and create the Vanilla World you want to use on your server.
 
+- [DummyItemsBlocks](https://github.com/diamond-gold/DummyItemsBlocks) allows worlds with such items or blocks to be loaded.
+
 ## Step 1: Download SpigotMC and Install Chunky
 
 First, make sure you have downloaded and installed SpigotMC on your server. SpigotMC will serve as the base for running your Minecraft server with custom configurations and plugins.
