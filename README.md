@@ -11,9 +11,9 @@ Before you begin, ensure you have the following:
 
 ## Step 1: Download SpigotMC and Install Chunky
 
-First, make sure you have downloaded and installed SpigotMC on your server. SpigotMC will serve as the base for running your Minecraft server with custom configurations and plugins.
+First, make sure you have downloaded and installed [SpigotMC](https://hub.spigotmc.org/jenkins/job/BuildTools/) on your server. SpigotMC will serve as the base for running your Minecraft server with custom configurations and plugins.
 
-Next, install Chunky on your computer. Chunky is a standalone application that allows you to render and pre-generate chunks for your Vanilla World.
+Next, install [Chunky](https://www.spigotmc.org/resources/chunky.81534/) on your computer. Chunky is a standalone plugin that allows you to render and pre-generate chunks for your Vanilla World.
 
 ## Step 2: Pre-generate Chunks in a Radius
 
