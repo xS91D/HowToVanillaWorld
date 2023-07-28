@@ -1,5 +1,3 @@
-Okay, here is an English version of the README.md for a simplified Minecraft world generator:
-
 # Simple PocketMine World Generator
 
 This is a simple Minecraft world generator that creates a randomly generated world with all available blocks and items.
