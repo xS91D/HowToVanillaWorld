@@ -6,14 +6,14 @@ In this tutorial, we will guide you through the process of installing a Vanilla 
 
 Before you begin, ensure you have the following:
 
-- SpigotMC installed on your server: SpigotMC is a modified version of the Minecraft server that allows for plugins and provides enhanced performance.
-- Chunky installed on your computer: Chunky is a world-rendering tool that helps you pre-generate chunks and create the Vanilla World you want to use on your server.
+- SpigotMC installed on your server: [SpigotMC](https://hub.spigotmc.org/jenkins/job/BuildTools/) is a modified version of the Minecraft server that allows for plugins and provides enhanced performance.
+- Chunky installed on your computer: [Chunky](https://www.spigotmc.org/resources/chunky.81534/) is a world-rendering tool that helps you pre-generate chunks and create the Vanilla World you want to use on your server.
 
 ## Step 1: Download SpigotMC and Install Chunky
 
-First, make sure you have downloaded and installed [SpigotMC](https://hub.spigotmc.org/jenkins/job/BuildTools/) on your server. SpigotMC will serve as the base for running your Minecraft server with custom configurations and plugins.
+First, make sure you have downloaded and installed SpigotMC on your server. SpigotMC will serve as the base for running your Minecraft server with custom configurations and plugins.
 
-Next, install [Chunky](https://www.spigotmc.org/resources/chunky.81534/) on your computer. Chunky is a standalone plugin that allows you to render and pre-generate chunks for your Vanilla World.
+Next, install Chunkyon your computer. Chunky is a standalone plugin that allows you to render and pre-generate chunks for your Vanilla World.
 
 ## Step 2: Pre-generate Chunks in a Radius
 
@@ -27,7 +27,7 @@ Before moving forward, make sure to stop your Minecraft server using the appropr
 
 ## Step 4: Open Chunker.app and Configure World Dimensions
 
-Now, open Chunker.app and select the Minecraft version 1.19.80. In case you need to handle Nether or End Worlds, go to Advanced Mode.
+Now, open [Chunker](https://chunker.app/) and select the Minecraft version 1.19.80. In case you need to handle Nether or End Worlds, go to Advanced Mode.
 
 In Advanced Mode, navigate to Dimensions and configure the worlds as "Overworld." This step ensures that both PocketMine (PM) and Minecraft recognize the world correctly and do not attempt to generate a new Overworld.
 
@@ -35,7 +35,7 @@ In Advanced Mode, navigate to Dimensions and configure the worlds as "Overworld.
 
 If you encounter the "NetworkVersion" error while using Chunker.app, follow these steps:
 
-1. Launch Minecraft with version 1.18.x using tools like mcpelinuxlauncher.
+1. Launch Minecraft with version 1.18.x using tools like [mcpelinuxlauncher](https://mcpelauncher.readthedocs.io/en/latest/).
 2. Play on the world and generate some chunks to resolve the error.
 
 ## Step 6: Transfer the World to Your Server
